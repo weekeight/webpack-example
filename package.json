@@ -17,11 +17,13 @@
   "author": "weekeight",
   "license": "MIT",
   "devDependencies": {
+    "css-loader": "^0.15.6",
     "file-loader": "^0.8.4",
     "image-webpack-loader": "^1.6.1",
     "imagemin": "^3.2.0",
     "less": "^2.5.1",
     "less-loader": "^2.2.0",
+    "style-loader": "^0.12.3",
     "webpack": "^1.11.0"
   }
 }
